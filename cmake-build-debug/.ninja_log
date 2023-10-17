@@ -1,0 +1,10 @@
+# ninja log v5
+1	1116	7188445242526243	CMakeFiles/simple_shell.dir/main.c.obj	2dc363493cbb518e
+1118	1937	7188445251303686	simple_shell.exe	5606e764414ced5d
+6	742	7189262705672975	CMakeFiles/simple_shell.dir/main.c.obj	2dc363493cbb518e
+743	1412	7189262712315136	simple_shell.exe	5606e764414ced5d
+12	341	7189266134032340	CMakeFiles/simple_shell.dir/main.c.obj	2dc363493cbb518e
+343	535	7189266135930724	simple_shell.exe	5606e764414ced5d
+6	424	7189273585688155	CMakeFiles/simple_shell.dir/main.c.obj	2dc363493cbb518e
+425	680	7189273588178855	simple_shell.exe	5606e764414ced5d
+6	890	7189335864519851	CMakeFiles/simple_shell.dir/main.c.obj	2dc363493cbb518e
